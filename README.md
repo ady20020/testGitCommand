@@ -1,2 +1,2 @@
 # testGitCommand
-daman project
+daman web project
